@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
 gem 'rails', '4.2.1'
+gem 'bootstrap-sass'
 
 group :test do
   gem 'selenium-webdriver', '2.35.1'
