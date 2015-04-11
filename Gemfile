@@ -7,6 +7,7 @@ gem 'bcrypt-ruby'
 group :test do
   gem 'selenium-webdriver', '2.35.1'
   gem 'capybara', '2.1.0'
+  gem 'cucumber-rails', '1.4.0', :require => false
 end
 
 gem 'sass-rails', '~> 5.0'
