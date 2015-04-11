@@ -2,6 +2,7 @@ source 'https://rubygems.org'
 
 gem 'rails', '4.2.1'
 gem 'bootstrap-sass'
+gem 'bcrypt-ruby'
 
 group :test do
   gem 'selenium-webdriver', '2.35.1'
