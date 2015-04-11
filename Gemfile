@@ -3,6 +3,9 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.1'
 gem 'bootstrap-sass'
 gem 'bcrypt-ruby'
+gem 'faker'
+gem 'will_paginate'
+gem 'bootstrap-will_paginate'
 
 group :test do
   gem 'selenium-webdriver', '2.35.1'
